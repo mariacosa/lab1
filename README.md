@@ -1,3 +1,3 @@
 # Proiect DASHBOARD
 
-Proiectul prezinta realizarea unei pagini web avand functia de _dashboard_.
+Priectul prezinta realizarea unei pagimi web avand functia de _dashboard_.\
